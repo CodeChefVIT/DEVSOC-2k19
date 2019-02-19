@@ -1,4 +1,4 @@
-## DEVSOC2K19##
+## DEVSOC2K19
 
 ### Steps for pushing code to the repo
 
