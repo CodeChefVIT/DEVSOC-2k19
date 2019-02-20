@@ -54,44 +54,44 @@ No, not necessarily, but at least one member should be present while pitching.
 
 ## Documentation
 Backend
-- ![express-generator](https://www.npmjs.com/package/express-generator) 
-- ![SocketIO](https://socket.io/docs/)
-- ![PassportOauth2](http://www.passportjs.org/docs/)
-- ![PyFlask Documentation](http://flask.pocoo.org/docs/1.0/tutorial/)
+- [express-generator](https://www.npmjs.com/package/express-generator) 
+- [SocketIO](https://socket.io/docs/)
+- [PassportOauth2](http://www.passportjs.org/docs/)
+- [PyFlask Documentation](http://flask.pocoo.org/docs/1.0/tutorial/)
 
 
 App Development
-- ![retrofit](https://square.github.io/retrofit/)
-- ![volley](https://developer.android.com/training/volley/)
-- ![fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)
-- ![FireBase Authentication](https://firebase.google.com/docs/auth/android/custom-auth)
-- ![Flutter](http://flutter.io/docs)
+- [retrofit](https://square.github.io/retrofit/)
+- [volley](https://developer.android.com/training/volley/)
+- [fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)
+- [FireBase Authentication](https://firebase.google.com/docs/auth/android/custom-auth)
+- [Flutter](http://flutter.io/docs)
 
 Cloud Services
-- ![DigitalOcean](http://digitalocean.com/)
-- ![AWS EC2](https://aws.amazon.com/ec2/)
-- ![Heroku](https://www.heroku.com/)
+- [DigitalOcean](http://digitalocean.com/)
+- [AWS EC2](https://aws.amazon.com/ec2/)
+- [Heroku](https://www.heroku.com/)
 
 Frontend
-- ![React BoilerPlate](https://github.com/react-boilerplate/react-boilerplate/tree/master/docs) 
-- ![MaterializeCSS](https://materializecss.com/)
+- [React BoilerPlate](https://github.com/react-boilerplate/react-boilerplate/tree/master/docs) 
+- [MaterializeCSS](https://materializecss.com/)
 
 AI and ML
-- ![Pytorch](https://pytorch.org/docs/stable/index.html)
-- ![Tensorflow](https://www.tensorflow.org/guide)
-- ![Keras](https://keras.io/)
-- ![OpenCV](https://docs.opencv.org/2.4/doc/tutorials/tutorials.html)
+- [Pytorch](https://pytorch.org/docs/stable/index.html)
+- [Tensorflow](https://www.tensorflow.org/guide)
+- [Keras](https://keras.io/)
+- [OpenCV](https://docs.opencv.org/2.4/doc/tutorials/tutorials.html)
 
  UI and UX Design
 
 MAC
-- ![Sketch](https://www.sketchapp.com/docs/)
+- [Sketch](https://www.sketchapp.com/docs/)
 
 Windows
-- ![UI Design Kit](https://www.adobe.com/in/products/xd/ui-design-kits.html)
-- ![Material Design Kit](https://materialdesignkit.com/)
-- ![Webflow](https://webflow.com/)
-- ![Google PWA](https://developers.google.com/web/progressive-web-apps/)
+- [UI Design Kit](https://www.adobe.com/in/products/xd/ui-design-kits.html)
+- [Material Design Kit](https://materialdesignkit.com/)
+- [Webflow](https://webflow.com/)
+- [Google PWA](https://developers.google.com/web/progressive-web-apps/)
 
 
 ## [Public API List](https://github.com/toddmotto/public-apis) !
