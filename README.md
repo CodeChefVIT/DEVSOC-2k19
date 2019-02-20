@@ -13,7 +13,7 @@
     git commit -m "message"
     git push origin <group_name>
 ```
-## Event Flow Diagram
+## Event Flow
 
 ![image](images/eventflow.png)
 
