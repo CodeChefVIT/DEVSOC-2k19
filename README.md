@@ -3,8 +3,8 @@
 [![DevSoc](https://img.shields.io/badge/DevSoc-2K19-teal.svg?style=for-the-badge)](http://www.devsoc-codechef.com/)
 [![CodeChef VIT](https://img.shields.io/badge/CodeChef-VIT-red.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/)
 > #### Welcome to [DEVSOC'19](http://www.devsoc-codechef.com/). It is an open hack, a sprint if you must. Hackathon, but just one of its kind!
-## Event Flow
 
+## Event Flow
 
 ![image](images/eventflow.png)
 
