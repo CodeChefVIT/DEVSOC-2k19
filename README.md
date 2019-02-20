@@ -1,8 +1,10 @@
 # DEVSOC 2K19 - [CodeChef VIT Chapter](https://www.facebook.com/codechefvituniversity/)
-
+[![DevSoc](https://img.shields.io/badge/DevSoc-2K19-teal.svg?style=for-the-badge)](http://www.devsoc-codechef.com/)
+[![CodeChef VIT](https://img.shields.io/badge/CodeChef-VIT-red.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/)
 > #### Welcome to [DEVSOC'19](http://www.devsoc-codechef.com/). It is an open hack, a sprint if you must. Hackathon, but just one of its kind!
 
-## Steps for pushing code to the repo
+## Steps for pushing code to the repo 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/CodeChefVIT/)
 
 ```bash
     git clone https://github.com/CodeChefVIT/DEVSOC-2k19.git
@@ -16,6 +18,7 @@
 ![image](images/eventflow.png)
 
 ## FAQ
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://github.com/CodeChefVIT)
 
 <details open>
     <summary><strong>What is the venue of the hackathon?</strong></summary>
@@ -32,6 +35,21 @@ There is no Registration fee for the Hackathon. It is absolutely free.
 No, not necessarily, but at least one member should be present while pitching.
 </details>
 
+## INR 80, 000 IN PRIZES
+
+[![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://github.com/CodeChefVIT)
+
+- #### First Prize : INR 50, 000
+- #### Second Prize : INR 20, 000
+- #### Thire Prize : INR 10, 000
+
+### Special Prizes
+
+- Best UI/UX
+- Best all women's team
+
+> ### There are swags for all!
+
 ## Code Reviewers
 
 - [Siddhartha Gupta](https://github.com/sidd-gupta)
@@ -42,3 +60,10 @@ No, not necessarily, but at least one member should be present while pitching.
 - Krati Agarwal
 - [Yash Mehrotra](https://github.com/YashMeh)
 - [Vinit Shahdeo](https://github.com/vinitshahdeo)
+
+## Thanks!
+
+**Hope to see you on top!**
+
+[![DevSoc](https://img.shields.io/badge/DevSoc-2K19-teal.svg?style=for-the-badge)](http://www.devsoc-codechef.com/)
+[![CodeChef VIT](https://img.shields.io/badge/CodeChef-VIT-red.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/)
