@@ -44,7 +44,7 @@ No, not necessarily, but at least one member should be present while pitching.
 ## Code Reviewers
 
 - [Siddhartha Gupta](https://github.com/sidd-gupta)
-- [Sohail](https://github.com/YoursSohail/)
+- [Mohammed Sohail](https://github.com/YoursSohail/)
 - [Angad Sharma](https://github.com/angadsharma1016)
 - [Arjun Agarwal](https://github.com/orgs/CodeChefVIT/people/agarwalarjun123)
 - [Vishwam Vyas](https://github.com/VVishvam)
