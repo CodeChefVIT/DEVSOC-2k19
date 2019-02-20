@@ -52,13 +52,13 @@ No, not necessarily, but at least one member should be present while pitching.
 - [Yash Mehrotra](https://github.com/YashMeh)
 - [Vinit Shahdeo](https://github.com/vinitshahdeo)
 
-## Resources
+## Documentation
 Backend
 - ![express-generator](https://www.npmjs.com/package/express-generator) 
 - ![SocketIO](https://socket.io/docs/)
 - ![PassportOauth2](http://www.passportjs.org/docs/)
 - ![PyFlask Documentation](http://flask.pocoo.org/docs/1.0/tutorial/)
- 
+
 
 Android
 - ![retrofit](https://square.github.io/retrofit/)
