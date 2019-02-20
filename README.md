@@ -31,3 +31,14 @@ There is no Registration fee for the Hackathon. It is absolutely free.
     <summary><strong>Is it necessary for whole team to be present all the time?</strong></summary>
 No, not necessarily, but at least one member should be present while pitching.
 </details>
+
+## Code Reviewers
+
+- [Siddhartha Gupta](https://github.com/sidd-gupta)
+- [Sohail](https://github.com/YoursSohail/)
+- [Angad Sharma](https://github.com/angadsharma1016)
+- [Arjun Agarwal](https://github.com/orgs/CodeChefVIT/people/agarwalarjun123)
+- [Vishwam Vyas](https://github.com/VVishvam)
+- Krati Agarwal
+- [Yash Mehrotra](https://github.com/YashMeh)
+- [Vinit Shahdeo](https://github.com/vinitshahdeo)
