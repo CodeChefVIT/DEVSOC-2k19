@@ -3,18 +3,8 @@
 [![DevSoc](https://img.shields.io/badge/DevSoc-2K19-teal.svg?style=for-the-badge)](http://www.devsoc-codechef.com/)
 [![CodeChef VIT](https://img.shields.io/badge/CodeChef-VIT-red.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/)
 > #### Welcome to [DEVSOC'19](http://www.devsoc-codechef.com/). It is an open hack, a sprint if you must. Hackathon, but just one of its kind!
-
-## Steps for pushing code to the repo 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/CodeChefVIT/)
-
-```bash
-    git clone https://github.com/CodeChefVIT/DEVSOC-2k19.git
-    git checkout -b <group_name>
-    git add .
-    git commit -m "message"
-    git push origin <group_name>
-```
 ## Event Flow
+
 
 ![image](images/eventflow.png)
 
@@ -58,7 +48,7 @@ No, not necessarily, but at least one member should be present while pitching.
 - [Angad Sharma](https://github.com/angadsharma1016)
 - [Arjun Agarwal](https://github.com/orgs/CodeChefVIT/people/agarwalarjun123)
 - [Vishwam Vyas](https://github.com/VVishvam)
-- Krati Agarwal
+- [Krati Agarwal](https://github.com/kratiagarwal07)
 - [Yash Mehrotra](https://github.com/YashMeh)
 - [Vinit Shahdeo](https://github.com/vinitshahdeo)
 
