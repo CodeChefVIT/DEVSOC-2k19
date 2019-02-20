@@ -82,6 +82,18 @@ AI and ML
 - ![Keras](https://keras.io/)
 - ![OpenCV](https://docs.opencv.org/2.4/doc/tutorials/tutorials.html)
 
+ UI and UX Design
+
+MAC
+- ![Sketch](https://www.sketchapp.com/docs/)
+
+Windows
+- ![UI Design Kit](https://www.adobe.com/in/products/xd/ui-design-kits.html)
+- ![Material Design Kit](https://materialdesignkit.com/)
+- ![Webflow](https://webflow.com/)
+- ![Google PWA](https://developers.google.com/web/progressive-web-apps/)
+
+
 ## [Public API List](https://github.com/toddmotto/public-apis) !
 
 ## Thanks!
