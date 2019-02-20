@@ -1,3 +1,4 @@
+![Devsoc CodeChef VIT](./images/devsoc.jpg)
 # DEVSOC 2K19 - [CodeChef VIT Chapter](https://www.facebook.com/codechefvituniversity/)
 [![DevSoc](https://img.shields.io/badge/DevSoc-2K19-teal.svg?style=for-the-badge)](http://www.devsoc-codechef.com/)
 [![CodeChef VIT](https://img.shields.io/badge/CodeChef-VIT-red.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/)
