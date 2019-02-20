@@ -52,6 +52,32 @@ No, not necessarily, but at least one member should be present while pitching.
 - [Yash Mehrotra](https://github.com/YashMeh)
 - [Vinit Shahdeo](https://github.com/vinitshahdeo)
 
+## Resources
+Backend
+- ![express-generator](https://www.npmjs.com/package/express-generator) 
+- ![SocketIO](https://socket.io/docs/)
+- ![PassportOauth2](http://www.passportjs.org/docs/)
+- ![PyFlask Documentation](http://flask.pocoo.org/docs/1.0/tutorial/)
+ 
+
+Android
+- ![retrofit](https://square.github.io/retrofit/)
+- ![volley](https://developer.android.com/training/volley/)
+- ![fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)
+- ![FireBase Authentication](https://firebase.google.com/docs/auth/android/custom-auth)
+
+Cloud Services
+- ![DigitalOcean](http://digitalocean.com/)
+- ![AWS EC2](https://aws.amazon.com/ec2/)
+- ![Heroku](https://www.heroku.com/)
+
+Frontend
+- ![React BoilerPlate](https://github.com/react-boilerplate/react-boilerplate/tree/master/docs) 
+- ![MaterializeCSS](https://materializecss.com/)
+
+
+## [Public API List](https://github.com/toddmotto/public-apis) !
+
 ## Thanks!
 
 **Hope to see you on top!**
