@@ -60,11 +60,12 @@ Backend
 - ![PyFlask Documentation](http://flask.pocoo.org/docs/1.0/tutorial/)
 
 
-Android
+App Development
 - ![retrofit](https://square.github.io/retrofit/)
 - ![volley](https://developer.android.com/training/volley/)
 - ![fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)
 - ![FireBase Authentication](https://firebase.google.com/docs/auth/android/custom-auth)
+- ![Flutter](http://flutter.io/docs)
 
 Cloud Services
 - ![DigitalOcean](http://digitalocean.com/)
@@ -75,6 +76,11 @@ Frontend
 - ![React BoilerPlate](https://github.com/react-boilerplate/react-boilerplate/tree/master/docs) 
 - ![MaterializeCSS](https://materializecss.com/)
 
+AI and ML
+- ![Pytorch](https://pytorch.org/docs/stable/index.html)
+- ![Tensorflow](https://www.tensorflow.org/guide)
+- ![Keras](https://keras.io/)
+- ![OpenCV](https://docs.opencv.org/2.4/doc/tutorials/tutorials.html)
 
 ## [Public API List](https://github.com/toddmotto/public-apis) !
 
