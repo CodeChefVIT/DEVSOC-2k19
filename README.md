@@ -42,7 +42,7 @@ No, not necessarily, but at least one member should be present while pitching.
 > ### There are swags for all!
 
 ## Few useful links 
-[![useful links](https://forthebadge.com/images/badges/for-you.svg)](https://github.com/CodeChefVIT)
+[![useful links](https://forthebadge.com/images/badges/for-you.svg)](https://github.com/CodeChefVIT) [![Check It Out](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/CodeChefVIT)
 
 ### Documentation
 Backend
