@@ -32,7 +32,7 @@ No, not necessarily, but at least one member should be present while pitching.
 
 - #### First Prize : INR 50, 000
 - #### Second Prize : INR 20, 000
-- #### Thire Prize : INR 10, 000
+- #### Third Prize : INR 10, 000
 
 ### Special Prizes
 
@@ -41,18 +41,10 @@ No, not necessarily, but at least one member should be present while pitching.
 
 > ### There are swags for all!
 
-## Code Reviewers
+## Few useful links 
+[![useful links](https://forthebadge.com/images/badges/for-you.svg)](https://github.com/CodeChefVIT)
 
-- [Siddhartha Gupta](https://github.com/sidd-gupta)
-- [Mohammed Sohail](https://github.com/YoursSohail/)
-- [Angad Sharma](https://github.com/angadsharma1016)
-- [Arjun Agarwal](https://github.com/orgs/CodeChefVIT/people/agarwalarjun123)
-- [Vishwam Vyas](https://github.com/VVishvam)
-- [Krati Agarwal](https://github.com/kratiagarwal07)
-- [Yash Mehrotra](https://github.com/YashMeh)
-- [Vinit Shahdeo](https://github.com/vinitshahdeo)
-
-## Documentation
+### Documentation
 Backend
 - [express-generator](https://www.npmjs.com/package/express-generator) 
 - [SocketIO](https://socket.io/docs/)
@@ -94,7 +86,18 @@ Windows
 - [Google PWA](https://developers.google.com/web/progressive-web-apps/)
 
 
-## [Public API List](https://github.com/toddmotto/public-apis) !
+### Check [Public API List](https://github.com/toddmotto/public-apis).
+
+## Code Reviewers
+
+- [Siddhartha Gupta](https://github.com/sidd-gupta)
+- [Mohammed Sohail](https://github.com/YoursSohail/)
+- [Angad Sharma](https://github.com/angadsharma1016)
+- [Arjun Agarwal](https://github.com/orgs/CodeChefVIT/people/agarwalarjun123)
+- [Vishwam Vyas](https://github.com/VVishvam)
+- [Krati Agarwal](https://github.com/kratiagarwal07)
+- [Yash Mehrotra](https://github.com/YashMeh)
+- [Vinit Shahdeo](https://github.com/vinitshahdeo)
 
 ## Thanks!
 
