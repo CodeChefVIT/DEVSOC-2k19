@@ -105,9 +105,13 @@ Tag us in your **Facebook/Instagram** posts with [#DevSoc2K19]() [#CodeChefVIT](
 
 <a href="https://www.facebook.com/codechefvituniversity/" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" /></a> &nbsp;&nbsp;<a href="https://twitter.com/Vinit_Shahdeo" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" /></a> &nbsp;&nbsp;<a href="https://www.instagram.com/codechefvit/" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" /></a>
 
+## Download PPT Template from this link....
+[PPT TEMPLATE](https://tinyurl.com/y2o6f4dy)
+
 ## Thanks!
 
 **Hope to see you on top!**
 
 [![DevSoc](https://img.shields.io/badge/DevSoc-2K19-teal.svg?style=for-the-badge)](http://www.devsoc-codechef.com/)
 [![CodeChef VIT](https://img.shields.io/badge/CodeChef-VIT-red.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/)
+
