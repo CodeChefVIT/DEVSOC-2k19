@@ -101,7 +101,8 @@ Windows
 
 ## We're social!
 
-Tag us in your **Facebook/Instagram** posts with [#DevSoc2K19]() [#CodeChefVIT](). We would love to appear in your stories! Don't forget to mention us :)
+Tag us in your **Facebook/Instagram** posts with **#DevSoc2K19**,
+ **#CodeChefVIT**. We would love to appear in your stories! Don't forget to mention us :)
 
 <a href="https://www.facebook.com/codechefvituniversity/" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" /></a> &nbsp;&nbsp;<a href="https://twitter.com/Vinit_Shahdeo" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" /></a> &nbsp;&nbsp;<a href="https://www.instagram.com/codechefvit/" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" /></a>
 
