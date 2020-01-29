@@ -117,3 +117,4 @@ Tag us in your **Facebook/Instagram** posts with **#DevSoc2K19**,
 [![CodeChef VIT](https://img.shields.io/badge/CodeChef-VIT-red.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/)
 
 **NOTE - A `Big Thanks` to everyone for making this hackathon a huge success! Check out the [source code](https://github.com/CodeChefVIT/DevSoc2K19-Website) of official website of [DevSoc](http://www.devsoc-codechef.com/) 2K19!**
+## plese ignore
